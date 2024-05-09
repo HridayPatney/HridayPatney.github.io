@@ -19,3 +19,7 @@ body{
 .dark{
     font-weight:bold;
 }
+.face{
+    display:flex;
+    justify-content: center;;
+}
